@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "Fone Bluetooth X100",
+    "link": "https://afiliado.com/produto/x100",
+    "categoria": "Eletrônicos",
+    "imagem": "https://via.placeholder.com/300x200?text=Fone+X100"
+  },
+  {
+    "nome": "Livro Python Essencial",
+    "link": "https://afiliado.com/produto/python",
+    "categoria": "Livros",
+    "imagem": "https://via.placeholder.com/300x200?text=Livro+Python"
+  },
+  {
+    "nome": "Suplemento Whey Max",
+    "link": "https://afiliado.com/produto/whey",
+    "categoria": "Saúde",
+    "imagem": "https://via.placeholder.com/300x200?text=Whey+Max"
+  },
+  {
+    "nome": "Notebook Ultrafino Z",
+    "link": "https://afiliado.com/produto/notebook",
+    "categoria": "Computadores",
+    "imagem": "https://via.placeholder.com/300x200?text=Notebook+Z"
+  },
+  {
+    "nome": "Cadeira Gamer Pro",
+    "link": "https://afiliado.com/produto/cadeira",
+    "categoria": "Móveis",
+    "imagem": "https://via.placeholder.com/300x200?text=Cadeira+Gamer"
+  }
+]
